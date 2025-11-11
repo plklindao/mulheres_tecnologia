@@ -1,5 +1,5 @@
 body { 
-    background-color: ;
+    background-color: rgb(228, 211, 188);
 }
 
 .cabecalho{
@@ -24,7 +24,11 @@ p {
 }
 
 .imgcentro {
-
+    max-width: 100%; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px; 
 }
 
 nav{
