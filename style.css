@@ -88,6 +88,13 @@ button {
     font-size: 16px;
      text-decoration: none;
      color: rebeccapurple;
+     background-color: #E91E63; 
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: 'Georgia', serif; 
+    
 }
 
 
