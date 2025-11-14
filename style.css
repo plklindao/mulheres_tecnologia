@@ -117,8 +117,16 @@ button {
     align-items: center;
 }
 .imagem{
-    width: 656px;
-     margin: 70px auto;
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 323px;
+    height: 328px;
+    border-radius: 50%;
+    margin-top: 50%;
+    margin: 103px;
 }
 
 
