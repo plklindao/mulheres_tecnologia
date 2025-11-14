@@ -144,8 +144,68 @@ a{
 }
 
 
-@media (max-wisth : 768px){
+@media (max-width: 768px) {
+    /* BODY GERAL */
+    body {
+        text-align: left;
+    }
 
+    /* CABEÇALHO */
+    .cabecalho {
+        padding: 20px;
+        flex-direction: column;
+        text-align: center;
+        font-size: 1.1em;
+    }
+
+    .cabecalho a {
+        margin: 5px 0;
+        display: block;
+    }
+
+    #titulo {
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+
+    /* IMAGENS E BOTÕES */
+    .divisoria {
+        margin-top: 5dvh;
+    }
+
+    .botoes, .imgcentro {
+        max-width: 90%;
+        width: 200px;
+        height: 200px;
+        margin: 30px auto;
+    }
+
+    /* SEÇÃO TEXTO E IMAGEM (DISPLAY FLEX REMOVIDO) */
+    .imagem-texto {
+        display: block;
+    }
+
+    .texto {
+        width: 90%;
+        margin: 30px auto;
+        padding: 15px;
+    }
+
+    .imagem {
+        width: 90%;
+        margin: 30px auto;
+    }
+
+    /* RODAPÉ */
+    .rodape {
+        padding: 50px 0;
+        font-size: 1.5em;
+    }
+
+    /* BOTÃO */
+    button {
+        box-shadow: 0 10px 15px rgba(43, 41, 41, 0.5);
+    }
 }
 
 
