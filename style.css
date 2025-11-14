@@ -1,9 +1,9 @@
-body { 
+body {
     background-color: rgb(228, 211, 188);
-    
+
 }
 
-.cabecalho{
+.cabecalho {
     background-color: black;
     color: whitesmoke;
     padding-top: 30px;
@@ -16,41 +16,51 @@ body {
     gap: 30%;
 }
 
+
+.divisoria {
+    text-align: center;
+    margin-top: 10dvh;
+}
+
+.botoes {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 50%;
+    margin: 80px;
+}
+
 #titulo {
-    color: #cf288f; 
+    color: #cf288f;
     font-family: Arial, sans-serif;
-    font-size: 2.5em; 
+    font-size: 2.5em;
     margin: 0;
 }
 
-p {
-    
-}
+p {}
 
 .imgcentro {
-    max-width: 50%; 
-    display: block; 
+    max-width: 50%;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
-nav{
+nav {}
 
-}
-
-li{
+li {
     display: inline-block;
-   
+
 
 }
 
-li a{
+li a {
     font-size: 50px;
 
 }
 
-button{
+button {
     font-size: 16px;
     color: rgb(255, 0, 132);
 
