@@ -125,11 +125,13 @@ button {
 /* Nao usei ainda */
 li {
     display: inline-block;
+    text-decoration: none;
 
 
 }
 
 li a {
     font-size: 50px;
+    text-decoration: none;
 
 }
