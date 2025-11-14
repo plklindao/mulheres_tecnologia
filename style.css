@@ -78,7 +78,7 @@ body {
     background-size: cover;
     color: #cf288f;
     text-align: center;
-    font-family: 'Georgia', serif; 
+    font-family: 'Georgia', serif;
     font-size: 2.9em;
     padding: 140px 0;
     border-top: 1px solid #f09ab7;
@@ -86,15 +86,14 @@ body {
 
 button {
     font-size: 16px;
-     text-decoration: none;
-     color: rebeccapurple;
-     background-color: #E91E63; 
-    padding: 10px 20px; 
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    background-color: #e68cda;
+    padding: 10px 20px;
     border: none;
     border-radius: 8px;
-    cursor: pointer;
-    font-family: 'Georgia', serif; 
-    
+    font-family: 'Georgia', serif;
+
 }
 
 
@@ -113,7 +112,3 @@ li a {
     font-size: 50px;
 
 }
-
-
-
-
