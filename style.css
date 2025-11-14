@@ -1,14 +1,14 @@
 body {
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
     text-align: center;
-    
+
     font-family: 'Montserrat', sans-serif;
 }
 
 
 
 
- /* parte de cima */
+/* parte de cima */
 .cabecalho {
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
     background-repeat: no-repeat;
@@ -72,8 +72,12 @@ body {
     margin: 80px;
 }
 
-
-
+ /* apenas a parte de baixo */
+.rodape {
+   background-color: #E0E0E0;
+   padding: 15px 0;
+   border-top: 1px solid #F06292;
+}
 
 
 
