@@ -124,7 +124,10 @@ button {
     margin: 103px auto;
 }
 
-
+.imagem-texto{
+    display: flex;
+    justify-content: center;
+}
 /* Nao usei ainda */
 li {
     display: inline-block;
