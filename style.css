@@ -1,11 +1,14 @@
 body {
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
-    
-
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
 
+
+ /* parte de cima */
 .cabecalho {
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
     background-repeat: no-repeat;
@@ -32,7 +35,17 @@ body {
     color: #E91E63;
 }
 
+#titulo {
+    color: #cf288f;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5em;
+    margin: 0;
+}
 
+
+
+
+/* imagem */
 .divisoria {
     text-align: center;
     margin-top: 10dvh;
@@ -45,17 +58,6 @@ body {
     margin-top: 50%;
     margin: 80px;
 }
-
-
-
-
-#titulo {
-    color: #cf288f;
-    font-family: 'Playfair Display', serif;
-    font-size: 2.5em;
-    margin: 0;
-}
-
 
 .imgcentro {
     max-width: 50%;
@@ -71,6 +73,16 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+/* Nao usei ainda */
 li {
     display: inline-block;
 
@@ -81,6 +93,9 @@ li a {
     font-size: 50px;
 
 }
+
+
+
 
 button {
     font-size: 16px;
