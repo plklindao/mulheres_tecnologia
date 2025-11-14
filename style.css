@@ -114,6 +114,7 @@ button {
     font-family: Arial, sans-serif; 
     color: #333; 
     line-height: 1.6; 
+    align-items: center;
 }
 .imagem{
     width: 656px;
