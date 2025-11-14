@@ -93,17 +93,34 @@ button {
     border: none;
     border-radius: 8px;
     font-family: 'Georgia', serif;
-    box-shadow: 0 20px 30px  rgb(43, 41, 41);
-    
+    box-shadow: 0 20px 30px rgb(43, 41, 41);
+
 
 }
 
 
-.imagem-texto{
+.imagem-texto {
     display: flex;
 }
 
-
+.imagem {
+    font-family: Arial, Helvetica, sans-serif;
+    /* Define a família da fonte para todo o texto da página. */
+    background-color: #f4f4f9;
+    /* Define uma cor de fundo cinza bem clara para a página. */
+    color: #333;
+    /* Define a cor padrão do texto como um cinza escuro. */
+    display: flex;
+    /* Ativa o modo "flexbox" para o corpo, que facilita o alinhamento. */
+    justify-content: center;
+    /* Centraliza o conteúdo horizontalmente na página. */
+    align-items: center;
+    /* Centraliza o conteúdo verticalmente na página. */
+    padding: 20px;
+    /* Adiciona um espaçamento de 20 pixels em todos os lados do corpo. */
+    margin: 0;
+    /* Remove a margem padrão do navegador. */
+}
 
 
 /* Nao usei ainda */
