@@ -104,22 +104,22 @@ button {
 }
 
 .texto {
-    font-family: Arial, Helvetica, sans-serif;
-    /* Define a família da fonte para todo o texto da página. */
-    background-color: #f4f4f9;
-    /* Define uma cor de fundo cinza bem clara para a página. */
-    color: #333;
-    /* Define a cor padrão do texto como um cinza escuro. */
-    display: flex;
-    /* Ativa o modo "flexbox" para o corpo, que facilita o alinhamento. */
-    justify-content: center;
-    /* Centraliza o conteúdo horizontalmente na página. */
-    align-items: center;
-    /* Centraliza o conteúdo verticalmente na página. */
-    padding: 20px;
-    /* Adiciona um espaçamento de 20 pixels em todos os lados do corpo. */
-    margin: 0;
-    /* Remove a margem padrão do navegador. */
+    width: 300px; /* Define a largura da caixa */
+    height: auto; /* A altura se ajustará ao conteúdo. Use um valor fixo se precisar */
+    margin: 20px auto; /* Centraliza a caixa horizontalmente e adiciona margem no topo/base */
+
+    /* 2. APARÊNCIA DA CAIXA */
+    background-color: #f0f0f0; /* Cor de fundo da caixa */
+    border: 2px solid #333; /* Uma borda sólida de 2px e cor escura */
+    border-radius: 8px; /* Cantos arredondados */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidade */
+
+    /* 3. ESTILO DO TEXTO E ESPAÇAMENTO INTERNO */
+    padding: 15px; /* Espaço interno entre a borda da caixa e o texto */
+    font-family: Arial, sans-serif; /* Fonte do texto */
+    color: #333; /* Cor do texto */
+    line-height: 1.6; /* Espaçamento entre linhas para melhor leitura */
+    text-align: justify;
 }
 
 
