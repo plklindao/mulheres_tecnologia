@@ -199,7 +199,7 @@ a{
    
     button {
         box-shadow: 0 10px 15px rgba(43, 41, 41, 0.5);
-        align-items: center;
+        justify-content: center;
     }
 }
 
