@@ -107,7 +107,9 @@ button {
     width: 546px; 
     height: auto; 
     margin: 124px auto; 
-    background-color: #ec42b4; 
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
     border: 2px solid #333;
     border-radius: 25px; 
     padding: 0px; 
