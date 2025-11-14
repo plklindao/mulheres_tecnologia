@@ -1,7 +1,7 @@
 body {
     background-image: url("https://img.freepik.com/vetores-gratis/fundo-aquarela-rosa-detalhado-pintado-a-mao_1048-17039.jpg?semt=ais_incoming&w=740&q=80");
     text-align: center;
-    font-size: 40px;
+    
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #4A148C;
-    padding: 15px 650px;
+    padding: 30px 650px;
     display: flex;
     align-items: center;
     justify-content: space-between;
