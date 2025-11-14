@@ -3,18 +3,7 @@ body {
 
 }
 
-/* .cabecalho {
-    background-color: black;
-    color: whitesmoke;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-size: 20px;
-    padding: 20px;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    gap: 30%;
-} */
+
 
 .cabecalho {
     background-color: #F8BBD0;
@@ -25,7 +14,7 @@ body {
     justify-content: space-between;
     font-family: 'Georgia', serif;
     font-size: 1.4em;
-    border-bottom: 3px solid #E91E63;
+    border-bottom: 5px solid #b119a9;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
